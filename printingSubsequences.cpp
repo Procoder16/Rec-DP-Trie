@@ -21,11 +21,6 @@ void subseq(int arr[], int i, int n, vector<int> &ans){
  
 int main(){
 
-    // #ifndef ONLINE_JUDGE
-    // freopen("input.txt", "r", stdin);
-    // freopen("output.txt", "w", stdout);
-    // #endif
-
     int arr[] = {3, 1, 2};
 
     vector<int> ans = {};
